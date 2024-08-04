@@ -30,7 +30,7 @@ To run this project, you'll need to have Python installed. Follow the steps belo
    git clone https://github.com/alexmarios/DataScienceNanoDegree.git
    cd DataScienceNanoDegree
 
-##Dataset
+## Dataset
 
 Please find dataset files here:
 https://www.kaggle.com/datasets/airbnb/boston?resource=download
