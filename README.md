@@ -7,6 +7,7 @@ This project provides an analysis of Airbnb data to understand pricing trends, a
 - [Introduction](#introduction)
 - [Features](#features)
 - [Installation](#installation)
+- [Dataset](#dataset)
 
 
 ## Introduction
@@ -28,3 +29,8 @@ To run this project, you'll need to have Python installed. Follow the steps belo
    ```bash
    git clone https://github.com/alexmarios/DataScienceNanoDegree.git
    cd DataScienceNanoDegree
+
+##Dataset
+
+Please find dataset files here:
+https://www.kaggle.com/datasets/airbnb/boston?resource=download
